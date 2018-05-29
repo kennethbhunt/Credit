@@ -160,4 +160,5 @@ var.y
 
 Rsquared <- 1- mse/var.y
 Rsquared
+#84%
 
